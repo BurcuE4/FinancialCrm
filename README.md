@@ -29,6 +29,36 @@ Bu kamp, yazılım yolculuğumda önemli bir kilometre taşı oldu. Bir sonraki 
 
 🎉 Teşekkürler Murat Yücedağ ve YouTube’daki harika eğitim içerikleri için!
 
+🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥🚥
+🎟Login Ekranı (Giriş:Admin Şifre:A1234 / Giriş:Login Şifre:1414) 🎟
+
 ![Login](https://github.com/BurcuE4/FinancialCrm/blob/master/Login.png)
+
+🏣Kategoriler🏣
+
+![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/Kategori.png)
+
+💶Harcamalar💶
+
+![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/Harcamalar.png)
+
+🟠Dashboard🟠
+
+![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/Dashboard.png)
+
+🟡Banka Hareketleri🟡
+
+![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/BankaHareketleri.png)
+
+🏦Bankalar Formu🏦
+
+![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/BankaFormu.png)
+
+🟣Ödemeler & Faturalar🟣
+
+![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/BankaFaturas%C4%B1.png)
+
+
+
 
 
