@@ -58,6 +58,10 @@ Bu kamp, yazılım yolculuğumda önemli bir kilometre taşı oldu. Bir sonraki 
 
 ![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/BankaFaturas%C4%B1.png)
 
+🟢Ayarlar🟢
+
+![Login Görseli](https://github.com/BurcuE4/FinancialCrm/blob/master/Ayarlar.png)
+
 
 
 
